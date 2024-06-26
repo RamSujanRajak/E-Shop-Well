@@ -1,5 +1,7 @@
 E-Shop Well
-    🛒 E-Shop Well is a meticulously designed e-commerce platform, prioritizing security in its development. New users can seamlessly register and login, ensuring a user-friendly experience. The platform allows vendors to directly showcase and sell their products, enabling buyers to make purchases without intermediaries, ensuring the best prices. Leveraging advanced technologies, the project incorporates a secure payment gateway, assuring users of a safe and trustworthy financial transaction environment.
+    🛒 E-Shop Well is a meticulously designed e-commerce platform, prioritizing security in its development. New users can seamlessly register and login, ensuring a user-friendly experience. The platform 
+        allows vendors to directly showcase and sell their products, enabling buyers to make purchases without intermediaries, ensuring the best prices. Leveraging advanced technologies, the project 
+        incorporates a secure payment gateway, assuring users of a safe and trustworthy financial transaction environment.
 
 Key Features
     • User Registration and Login: Smooth and secure user authentication process.
@@ -23,7 +25,9 @@ Backend
     • SQLite: Lightweight, disk-based database used for storing and managing data.
 
 Project Explanation
-    E-Shop Well offers a seamless and secure online shopping experience, fostering a direct connection between buyers and vendors for optimal business growth. By eliminating intermediaries, the platform ensures the best prices for buyers while providing higher margins for vendors. The use of modern technologies like Django and SQLite guarantees a robust backend, while the integration of HTML, CSS, and JavaScript ensures a smooth and engaging frontend experience.
+    E-Shop Well offers a seamless and secure online shopping experience, fostering a direct connection between buyers and vendors for optimal business growth. By eliminating intermediaries, the platform ensures 
+    the best prices for buyers while providing higher margins for vendors. The use of modern technologies like Django and SQLite guarantees a robust backend, while the integration of HTML, CSS, and JavaScript 
+    ensures a smooth and engaging frontend experience.
 
 Why Use These Technologies?
     • Django: Offers a comprehensive and secure framework for building web applications quickly and with less code. Its built-in features for authentication, database ORM, and admin interface make it a great choice for e-commerce platforms.
